@@ -1,0 +1,2 @@
+# lazyvest
+Lazy investments
